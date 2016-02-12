@@ -1,7 +1,6 @@
 ## FirefoxBookmarks ##
 
 *Uses: Python 3.4*
---- minor edits for testing commit ---
 
 A simple python module to list the Firefox bookmarks on the 
 commandline and let user choose. Opens selected in browser. 

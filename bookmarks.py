@@ -80,7 +80,6 @@ def select_menu(bookmarks):
                 continue
             else:
                 url = bookmarks[selection]['url']
-                break
         except KeyboardInterrupt:
             sys.exit()
         else:
